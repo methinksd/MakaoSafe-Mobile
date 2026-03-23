@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Environment files — never commit these
+.env
+.env.local
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
+
+# EAS
+.eas/
